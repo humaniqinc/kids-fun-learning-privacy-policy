@@ -72,11 +72,3 @@ To exercise these rights, please contact us at the email address provided above.
 ## Consent
 
 By using Kids Fun Learning, you consent to this Privacy Policy.
-
----
-
-**Note:** This is a template privacy policy. Before publishing to the Play Store, you must:
-1. Add your actual contact email
-2. Host this policy on a public URL
-3. Review and customize it to match your exact practices
-4. Have it reviewed by a legal professional
